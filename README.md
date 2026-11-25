@@ -23,11 +23,28 @@
 ```js
 const yousuf = {
   location: "Kolkata, India 🇮🇳",
-  currentlyLearning: ["Your focus here", "Another skill"],
-  currentlyBuilding: "Your project here",
-  interests: ["Web Dev", "Open Source", "Problem Solving"],
-  funFact: "Add something fun about you ✨",
-  lookingFor: "Collaborations, internships & cool projects",
+
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "Machine Learning & Deep Learning",
+    "Operating Systems, DBMS & Computer Networks",
+    "Advanced Computer Science for GATE 2027"
+  ],
+
+  currentlyBuilding: "Exploring AI/ML and full-stack development projects",
+
+  interests: [
+    "Artificial Intelligence & Machine Learning",
+    "Web Development",
+    "Open Source",
+    "Problem Solving",
+    "Competitive Programming",
+    "System Design"
+  ],
+
+  funFact: "A CS enthusiast who enjoys exploring how things work under the hood 🚀",
+
+  lookingFor: "Internships, open-source contributions, collaborations, research opportunities & exciting tech projects"
 };
 ```
 
@@ -92,12 +109,14 @@ const yousuf = {
 
 <div align="center">
 
-<!-- Replace "your-repo-name" with your real repository names -->
-<a href="https://github.com/Yousuf64-boop/your-repo-name">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf64-boop&repo=your-repo-name&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="project 1"/>
+<a href="https://github.com/Yousuf64-boop/Krishi-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf64-boop&repo=Krishi-AI&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Krishi AI"/>
 </a>
-<a href="https://github.com/Yousuf64-boop/your-repo-name-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf64-boop&repo=your-repo-name-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="project 2"/>
+<a href="https://github.com/Yousuf64-boop/DevFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf64-boop&repo=DevFlow&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="DevFlow"/>
+</a>
+<a href="https://github.com/Yousuf64-boop/India-Transport-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yousuf64-boop&repo=India-Transport-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="India Transport Assistant"/>
 </a>
 
 </div>
